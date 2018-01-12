@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*- 
-# filename: r.py
+# filename: g.py
 
 from ghost import Ghost, Session
 from bs4 import BeautifulSoup
