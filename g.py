@@ -11,7 +11,7 @@ header = {'User-Agent':ua_mo}
 
 gh = Ghost()
 
-se_mo = Session(gh, user_agent=ua_mo, wait_timeout=20, wait_callback=None, display=True, viewport_size=(375, 553), download_images=True)
+se = Session(gh, user_agent=ua_mo, wait_timeout=20, wait_callback=None, display=True, viewport_size=(375, 553), download_images=True)
 
 
 
